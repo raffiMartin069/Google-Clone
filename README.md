@@ -7,6 +7,6 @@ Google-Clone is a web application that mimics the basic functionality and design
 ![alt text](./src/assets/project_img/image.png)
 
 ## Mobile View
-![alt text](./src/assets/project_img/image1.png)
+![alt text](./src/assets/project_img/image-1.png)
 
 Built by [Raffa.Dev]
